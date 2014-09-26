@@ -46,7 +46,7 @@
     "start": "INSIGHT_PUBLIC_PATH=public node node_modules/.bin/insight-bitcore-api"
   },
   "dependencies": {
-    "insight-bitcore-api": "git://github.com/zhoutong/insight-api#6859ca81a3e067191e71e19c24b537a3f1584d6a"
+    "insight-bitcore-api": "git://github.com/zhoutong/insight-api#329c81f0f79815980726447a1d883f3fdae1cc2c"
   },
   "devDependencies": {
     "bower": "~1.2.8",
